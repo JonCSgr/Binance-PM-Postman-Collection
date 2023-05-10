@@ -3115,6 +3115,7 @@
 								{
 									"key": "symbol",
 									"value": ""
+									"disabled": true
 								},
 								{
 									"key": "recvWindow",
