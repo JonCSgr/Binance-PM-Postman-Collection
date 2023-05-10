@@ -2339,7 +2339,7 @@
 					"response": []
 				},
 				{
-					"name" :"Change UM Position Mode(TRADE)",
+					"name" :"Change CM Position Mode(TRADE)",
 					"event": [
 						{
 							"listen": "prerequest",
