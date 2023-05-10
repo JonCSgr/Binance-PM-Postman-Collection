@@ -2611,7 +2611,7 @@
 					"response": []
 				},
 				{
-					"name" :"UM Account Trade List (USER_DATA)",
+					"name" :"CM Account Trade List (USER_DATA)",
 					"event": [
 						{
 							"listen": "prerequest",
