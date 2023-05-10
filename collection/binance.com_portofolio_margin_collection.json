@@ -3490,7 +3490,7 @@
 								"papi",
 								"v1",
 								"margin",
-								"repayLoan"
+								"marginInterestHistory"
 							],
 							"query": [
 								{
