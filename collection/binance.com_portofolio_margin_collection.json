@@ -2760,7 +2760,7 @@
 					"response": []
 				},
 				{
-					"name" :"UM Notional and Leverage Brackets (USER_DATA)",
+					"name" :"CM Notional and Leverage Brackets (USER_DATA)",
 					"event": [
 						{
 							"listen": "prerequest",
